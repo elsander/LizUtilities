@@ -1,0 +1,8 @@
+Package: LizUtilities
+Title: Utility functions for the Allesina lab
+Version: 0.0.0.9000
+Authors@R: person("Elizabeth", "Sander", email = "esander@uchicago.edu", role = c("aut", "cre"))
+Description: A variety of functions the Allesina lab regularly uses. This package just conveniently puts them all in one place
+Depends: R (>= 3.2.3)
+License: MIT
+LazyData: true
